@@ -1,0 +1,4 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_main">#0B1016</color>      <color name="bg_card">#161D27</color>      <color name="bg_input">#252C38</color>     <color name="neon_green">#00E676</color>   <color name="text_hint">#8A94A6</color>    </resources>
